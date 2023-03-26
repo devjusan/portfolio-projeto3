@@ -130,6 +130,10 @@ section {
   padding-right: 30px;
 }
 
+footer {
+  padding: 30px;
+}
+
 ul li {
   list-style: none;
 }
